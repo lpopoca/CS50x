@@ -1,0 +1,2 @@
+# CS50x
+ assignments for CS50x
